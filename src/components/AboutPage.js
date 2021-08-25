@@ -3,19 +3,19 @@ import React from 'react'
 const AboutPage = () => {
     return (
         <div className="text-center py-24 w-4/5 mx-auto">
-            <h3 className="font-rammetto text-2xl pb-4">HealthRoom has always been about the readers</h3>
-            <p>We created HealthRoom to ensure that every person has an opportunity to keep up with health and fitness tips.
-            
+            <h3 className="font-montserrat text-2xl pb-4">Who Am I? </h3>
+            <p>
+            Hello, as I'm sure your aware my name is Gareth, I'm 22 and from the United Kingdom. I mainly build websites for businesses in and around my local area but recently I decided to start 
+            freelancing properly and attracting clients throughout the United Kingdom. I like to keep things simple for my clients websites. I always find minimalistic websites best and return better results for the clients. 
+            You may have noticed a few things about this website, It's blazing fast, it has unique animations and is simple to use. 
+            <br/>
+          
+Recently, I've started using and prototyping some new tech stacks. I used to build my websites from WordPress but recently I found that GatsbyJS and React are the way forward for me. I want to create cutting edge websites with as little loading time as possible for my clients. 
+That isn't to say I won't be using WordPress from time to time but I'm now focussing my time and reccomending GatsbyJS to my clients. 
 
-            Healthy living should be encouraged. The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.
-            <br/>
-            The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.
-            <br/>
-            A 1914 English translation by Harris Rackham reads:
+<br /> 
 
-            “Nor is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but occasionally circumstances occur in which toil and pain can procure him some great pleasure.”
-            <br/>
-            We  hope to stay around for many years and continue offering our service to readers worldwide.
+Anyway, enough of me geeking out. If you want to hire me then please get in contact using the contact from on the contact page.
             </p>
         </div>
     )

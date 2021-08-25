@@ -3,6 +3,7 @@ title: The era of keeping fit
 slug: the-era-of-keeping-fit
 tag: Fitness
 image: ../images/keeping-fit.jpg
+author: Gareth
 ---
 
 We should all keep fit. This is a dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:

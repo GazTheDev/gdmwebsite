@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     siteUrl: "https://health-room.netlify.app",
-    title: "Health room",
+    title: "Gareth Davies",
   },
   plugins: [
   "gatsby-plugin-gatsby-cloud",
@@ -10,6 +10,7 @@ module.exports = {
   `gatsby-plugin-sharp`,
   `gatsby-transformer-sharp`,
   `gatsby-transformer-remark`,
+  `gatsby-plugin-react-helmet`,
   {
     resolve: `gatsby-source-filesystem`,
     options: {

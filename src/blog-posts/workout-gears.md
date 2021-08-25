@@ -1,8 +1,9 @@
 ---
 title: How to choose your workout gears.
-slug:  how-to-choose-your-workout-gears.
+slug: how-to-choose-your-workout-gears.
 tag: Fitness
 image: ../images/workout-gear.jpg
+author: Gareth
 ---
 
 How to choose your workout gears. This is a dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:

@@ -1,8 +1,9 @@
 ---
 title: Weight lifting may be the next big thing
-slug:  weight-lifting-may-be-the-next-big-thing
+slug: weight-lifting-may-be-the-next-big-thing
 tag: Fitness
 image: ../images/lifting-weight.jpg
+author: Gareth
 ---
 
 Weight lifting may be the next big thing. This is a dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book. It usually begins with:
